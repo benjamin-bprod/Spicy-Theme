@@ -1,0 +1,21 @@
+{
+    "name": "spicy",
+    "displayName": "Spicy",
+    "description": "A spicy theme fotr VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "spicy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spicy-color-theme.json"
+            }
+        ]
+    }
+}
