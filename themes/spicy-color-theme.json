@@ -25,7 +25,7 @@
         "charts.foreground": "#AEB2B2",
         "charts.lines": "#AEB2B2",
         "charts.red": "#AB1C19",
-        "charts.blue": "#1875ff",
+        "charts.blue": "#00A9B3",
         "charts.yellow": "#ff7518",
         "charts.orange": "#d4770c",
         "charts.green": "#9ccc00",
@@ -52,7 +52,7 @@
         "editorCursor.background": "#ff7518",
         "editorBracketHighlight.foreground1": "#ff7518",
         "editorBracketHighlight.foreground2": "#a85ff1",
-        "editorBracketHighlight.foreground3": "#1875ff",
+        "editorBracketHighlight.foreground3": "#00A9B3",
         "editor.background": "#111418",
         "editor.findMatchBackground": "#ff751820",
         "editor.findMatchBorder": "#ff751860",
@@ -92,7 +92,7 @@
         "editorGutter.background": "#111418",
         "editorGutter.addedBackground": "#9ccc00cc",
         "editorGutter.deletedBackground": "#AB1C19cc",
-        "editorGutter.modifiedBackground": "#1875ffcc",
+        "editorGutter.modifiedBackground": "#00A9B3cc",
         "editorLineNumber.foreground": "#43474d90",
         "editorLineNumber.activeForeground": "#43474d",
         "input.background": "#00000000",
@@ -118,7 +118,7 @@
         "list.hoverBackground": "#00000060",
         "list.hoverForeground": "#AEB2B2",
         "list.foreground": "#ff7518",
-        "gitDecoration.modifiedResourceForeground": "#1875ff",
+        "gitDecoration.modifiedResourceForeground": "#00A9B3",
         "gitDecoration.deletedResourceForeground": "#AB1C19",
         "gitDecoration.untrackedResourceForeground": "#9ccc00",
         "gitDecoration.ignoredResourceForeground": "#43474d",
@@ -135,8 +135,8 @@
         "merge.commonHeaderBackground": "#ff751880",
         "merge.currentContentBackground": "#9ccc0030",
         "merge.currentHeaderBackground": "#9ccc0080",
-        "merge.incomingContentBackground": "#1875ff30",
-        "merge.incomingHeaderBackground": "#1875ff80",
+        "merge.incomingContentBackground": "#00A9B330",
+        "merge.incomingHeaderBackground": "#00A9B380",
         "editorOverviewRuler.border": "#000000",
         "editorOverviewRuler.commonContentForeground": "#ff7518",
         "editorOverviewRuler.currentContentForeground": "#AB1C19",
@@ -149,7 +149,7 @@
         "notificationLink.foreground": "#ff7518",
         "notificationsErrorIcon.foreground": "#AB1C19",
         "notificationsWarningIcon.foreground": "#d4770c",
-        "notificationsInfoIcon.foreground": "#1875ff",
+        "notificationsInfoIcon.foreground": "#00A9B3",
         "panel.background": "#111418",
         "panel.border": "#000000",
         "panelInput.border": "#43474d",
@@ -177,7 +177,7 @@
         "editorMarkerNavigation.background": "#0D0F12",
         "editorMarkerNavigationError.background": "#AB1C1990",
         "editorMarkerNavigationWarning.background": "#eba05090",
-        "editorMarkerNavigationInfo.background": "#1875ff90",
+        "editorMarkerNavigationInfo.background": "#00A9B390",
         "pickerGroup.border": "#000000",
         "pickerGroup.foreground": "#AEB2B2",
         "progressBar.background": "#ff7518",
@@ -234,15 +234,15 @@
         "terminal.ansiRed": "#AB1C19",
         "terminal.ansiGreen": "#9ccc00",
         "terminal.ansiYellow": "#ff7518",
-        "terminal.ansiBlue": "#1875ff",
+        "terminal.ansiBlue": "#00A9B3",
         "terminal.ansiMagenta": "#d46ec0",
         "terminal.ansiCyan": "#38c7bd",
         "terminal.ansiWhite": "#AEB2B2",
-        "terminal.ansiBrightBlack": "#1875ff",
+        "terminal.ansiBrightBlack": "#00A9B3",
         "terminal.ansiBrightRed": "#AB1C19",
         "terminal.ansiBrightGreen": "#9ccc00",
         "terminal.ansiBrightYellow": "#ff7518",
-        "terminal.ansiBrightBlue": "#1875ff",
+        "terminal.ansiBrightBlue": "#00A9B3",
         "terminal.ansiBrightMagenta": "#d46ec0",
         "terminal.ansiBrightCyan": "#38c7bd",
         "terminal.ansiBrightWhite": "#AEB2B2",
@@ -250,11 +250,11 @@
         "terminal.foreground": "#AEB2B2",
         "terminalCursor.background": "#ff7518",
         "terminalCursor.foreground": "#ff7518",
-        "textBlockQuote.background": "#1875ff34",
-        "textBlockQuote.border": "#1875ffb9",
-        "textCodeBlock.background": "#1875ff34",
-        "textLink.activeForeground": "#1875ff",
-        "textLink.foreground": "#1875ff",
+        "textBlockQuote.background": "#00A9B334",
+        "textBlockQuote.border": "#00A9B3b9",
+        "textCodeBlock.background": "#00A9B334",
+        "textLink.activeForeground": "#00A9B3",
+        "textLink.foreground": "#00A9B3",
         "textPreformat.foreground": "#ff7518",
         "textSeparator.foreground": "#ff7518",
         "walkThrough.embeddedEditorBackground": "#111418",
@@ -335,7 +335,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -480,7 +480,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -529,7 +529,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -596,7 +596,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -660,7 +660,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
@@ -799,7 +799,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#009CCC"
+				"foreground": "#00A9B3"
 			}
 		},
 		{
